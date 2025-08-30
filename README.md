@@ -31,4 +31,4 @@ This project highlights how far you can go with **pure Python**: file handling, 
 
 ---
 
-## 📂 Project Structure
+
